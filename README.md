@@ -1,2 +1,2 @@
 # vCard3
-有个性的简历网页模板，用于个人主页，个人网站
+使用[vCard3模板](https://github.com/jeff1hwang/vCard3)。
